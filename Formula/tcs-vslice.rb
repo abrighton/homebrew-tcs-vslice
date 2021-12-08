@@ -11,7 +11,7 @@ class TcsVslice < Formula
   depends_on "zlog"
 
   def install
-    system "make", "install", "PREFIX=#{prefix}"
+    system "make install PREFIX=#{prefix}"
   end
 
   test do
