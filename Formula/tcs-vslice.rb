@@ -2,7 +2,7 @@ class TcsVslice < Formula
   desc "Shared libraries for TMT TCS assembly"
   homepage "https://github.com/tmtsoftware/tcs-vslice-0.4"
   url "https://github.com/tmtsoftware/tcs-vslice-0.4/releases/download/v0.3/tcs-vslice-dylibs.zip"
-  sha256 "c94d0c1981bd4ca304100ec8390dffdc01f25d76655749a89d0cefeb5e62406b"
+  sha256 "dde98e3cbce3a5cc62585a9e34c0ec652d6310c5043e4d2b78c7780b446d892b"
   license "GPL-2.0-or-later"
 
   depends_on "libcbor"
